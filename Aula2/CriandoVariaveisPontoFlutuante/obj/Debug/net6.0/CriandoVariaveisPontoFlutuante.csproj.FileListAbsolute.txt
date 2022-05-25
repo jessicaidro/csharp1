@@ -1,0 +1,15 @@
+C:\alura\csharp\Aula2\CriandoVariaveisPontoFlutuante\bin\Debug\net6.0\CriandoVariaveisPontoFlutuante.exe
+C:\alura\csharp\Aula2\CriandoVariaveisPontoFlutuante\bin\Debug\net6.0\CriandoVariaveisPontoFlutuante.deps.json
+C:\alura\csharp\Aula2\CriandoVariaveisPontoFlutuante\bin\Debug\net6.0\CriandoVariaveisPontoFlutuante.runtimeconfig.json
+C:\alura\csharp\Aula2\CriandoVariaveisPontoFlutuante\bin\Debug\net6.0\CriandoVariaveisPontoFlutuante.dll
+C:\alura\csharp\Aula2\CriandoVariaveisPontoFlutuante\bin\Debug\net6.0\CriandoVariaveisPontoFlutuante.pdb
+C:\alura\csharp\Aula2\CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\CriandoVariaveisPontoFlutuante.csproj.AssemblyReference.cache
+C:\alura\csharp\Aula2\CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\CriandoVariaveisPontoFlutuante.GeneratedMSBuildEditorConfig.editorconfig
+C:\alura\csharp\Aula2\CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\CriandoVariaveisPontoFlutuante.AssemblyInfoInputs.cache
+C:\alura\csharp\Aula2\CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\CriandoVariaveisPontoFlutuante.AssemblyInfo.cs
+C:\alura\csharp\Aula2\CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\CriandoVariaveisPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\alura\csharp\Aula2\CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\CriandoVariaveisPontoFlutuante.dll
+C:\alura\csharp\Aula2\CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\refint\CriandoVariaveisPontoFlutuante.dll
+C:\alura\csharp\Aula2\CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\CriandoVariaveisPontoFlutuante.pdb
+C:\alura\csharp\Aula2\CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\CriandoVariaveisPontoFlutuante.genruntimeconfig.cache
+C:\alura\csharp\Aula2\CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\ref\CriandoVariaveisPontoFlutuante.dll

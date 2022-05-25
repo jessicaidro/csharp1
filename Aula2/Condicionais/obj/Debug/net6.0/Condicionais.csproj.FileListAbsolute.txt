@@ -1,0 +1,15 @@
+C:\alura\csharp\Aula2\Condicionais\bin\Debug\net6.0\Condicionais.exe
+C:\alura\csharp\Aula2\Condicionais\bin\Debug\net6.0\Condicionais.deps.json
+C:\alura\csharp\Aula2\Condicionais\bin\Debug\net6.0\Condicionais.runtimeconfig.json
+C:\alura\csharp\Aula2\Condicionais\bin\Debug\net6.0\Condicionais.dll
+C:\alura\csharp\Aula2\Condicionais\bin\Debug\net6.0\Condicionais.pdb
+C:\alura\csharp\Aula2\Condicionais\obj\Debug\net6.0\Condicionais.csproj.AssemblyReference.cache
+C:\alura\csharp\Aula2\Condicionais\obj\Debug\net6.0\Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\alura\csharp\Aula2\Condicionais\obj\Debug\net6.0\Condicionais.AssemblyInfoInputs.cache
+C:\alura\csharp\Aula2\Condicionais\obj\Debug\net6.0\Condicionais.AssemblyInfo.cs
+C:\alura\csharp\Aula2\Condicionais\obj\Debug\net6.0\Condicionais.csproj.CoreCompileInputs.cache
+C:\alura\csharp\Aula2\Condicionais\obj\Debug\net6.0\Condicionais.dll
+C:\alura\csharp\Aula2\Condicionais\obj\Debug\net6.0\refint\Condicionais.dll
+C:\alura\csharp\Aula2\Condicionais\obj\Debug\net6.0\Condicionais.pdb
+C:\alura\csharp\Aula2\Condicionais\obj\Debug\net6.0\Condicionais.genruntimeconfig.cache
+C:\alura\csharp\Aula2\Condicionais\obj\Debug\net6.0\ref\Condicionais.dll

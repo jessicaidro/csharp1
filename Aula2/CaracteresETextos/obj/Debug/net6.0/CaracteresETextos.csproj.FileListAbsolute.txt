@@ -1,0 +1,15 @@
+C:\alura\csharp\Aula2\CaracteresETextos\bin\Debug\net6.0\CaracteresETextos.exe
+C:\alura\csharp\Aula2\CaracteresETextos\bin\Debug\net6.0\CaracteresETextos.deps.json
+C:\alura\csharp\Aula2\CaracteresETextos\bin\Debug\net6.0\CaracteresETextos.runtimeconfig.json
+C:\alura\csharp\Aula2\CaracteresETextos\bin\Debug\net6.0\CaracteresETextos.dll
+C:\alura\csharp\Aula2\CaracteresETextos\bin\Debug\net6.0\CaracteresETextos.pdb
+C:\alura\csharp\Aula2\CaracteresETextos\obj\Debug\net6.0\CaracteresETextos.csproj.AssemblyReference.cache
+C:\alura\csharp\Aula2\CaracteresETextos\obj\Debug\net6.0\CaracteresETextos.GeneratedMSBuildEditorConfig.editorconfig
+C:\alura\csharp\Aula2\CaracteresETextos\obj\Debug\net6.0\CaracteresETextos.AssemblyInfoInputs.cache
+C:\alura\csharp\Aula2\CaracteresETextos\obj\Debug\net6.0\CaracteresETextos.AssemblyInfo.cs
+C:\alura\csharp\Aula2\CaracteresETextos\obj\Debug\net6.0\CaracteresETextos.csproj.CoreCompileInputs.cache
+C:\alura\csharp\Aula2\CaracteresETextos\obj\Debug\net6.0\CaracteresETextos.dll
+C:\alura\csharp\Aula2\CaracteresETextos\obj\Debug\net6.0\refint\CaracteresETextos.dll
+C:\alura\csharp\Aula2\CaracteresETextos\obj\Debug\net6.0\CaracteresETextos.pdb
+C:\alura\csharp\Aula2\CaracteresETextos\obj\Debug\net6.0\CaracteresETextos.genruntimeconfig.cache
+C:\alura\csharp\Aula2\CaracteresETextos\obj\Debug\net6.0\ref\CaracteresETextos.dll
