@@ -1,5 +1,5 @@
 # C# e orientação a objetos
-<img src="https://img.shields.io/github/languages/code-size/jessicaidro/csharp1?style=for-the-badge"/>
+<img src="https://img.shields.io/github/languages/code-size/jessicaidro/csharp1?style=for-the-badge"/> </img>
 - [x] C#: Iniciando com a Linguagem
 - [x] C#: orientação a objetos
 - [ ] C# : usando herança e implementando interfaces
